@@ -48,7 +48,9 @@
     "8625063257:AAGoybNUqLS514dmM3zWphs75pOw6tnbgfI"
   ],
   "roles": {
-    "owner": [],
+    "owner": [
+      8797214119
+    ],
     "pt": [],
     "tk": [],
     "reseller": []
