@@ -46,5 +46,11 @@
     "8724573921:AAHQZIR4YN15Kxcx71LPqEASEyiE5DvhGDc",
     "8719059211",
     "8625063257:AAGoybNUqLS514dmM3zWphs75pOw6tnbgfI"
-  ]
+  ],
+  "roles": {
+    "owner": [],
+    "pt": [],
+    "tk": [],
+    "reseller": []
+  }
 }
